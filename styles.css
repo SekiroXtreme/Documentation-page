@@ -51,7 +51,7 @@ body {
 #navbar a {
   display: block;
   padding: 10px 30px;
-  color: ced4da;
+  color: #ced4da;
   text-decoration: none;
   cursor: pointer;
 }
@@ -105,7 +105,7 @@ code {
     border-bottom: 2px solid;
   }
   #navbar a{
-    color: ced4da;
+    color: #ced4da;
     text-decoration: none;
     cursor: pointer;
     background-color: black; 
